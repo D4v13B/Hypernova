@@ -2,4 +2,4 @@ graphiti-core==0.18.9
 fastapi[standard]==0.116.1
 pydantic==2.11.7
 uvicorn==0.35.0
-# graphiti-core[google-genai]==0.18.9
+graphiti-core[google-genai]==0.18.9
